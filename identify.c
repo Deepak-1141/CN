@@ -58,7 +58,7 @@ int raise_test() {
 
     return 0;
 }
-
+           // Taken from Stack Overflow
 int main(int argc, char *argv[]) {
     raise_test();
     return 0;
